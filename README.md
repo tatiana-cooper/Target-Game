@@ -23,7 +23,7 @@ The main target of the game is to create nine words using nine generated letters
 The project requires Python 3.
 
 ### Clone
--   Clone this repo to your local machine using  `https://github.com/tatiana-cooper/Target-Game.git`
+Clone this repo to your local machine using  `https://github.com/tatiana-cooper/Target-Game.git`
 
 ### Setup
 Windows 10:
